@@ -2,7 +2,7 @@
 	<!-- If you prefer to relocate your local repository to somewhere other
 		than ~.m2/repository then uncomment the <localrepository/> tag below and
 		specify your location. <localRepository>c:/relocated/maven/repository</localRepository> -->
-		<localRepository>/Users/dk9728/.m2/repository</localRepository>
+		<localRepository>/var/jenkins_home/.m2/repository</localRepository>
 	<mirrors>
 		<mirror>
 			<id>att-public-group</id>
