@@ -161,8 +161,8 @@
 		</server>
 		<server>
 			<id>jfrog</id>
-			<username>${env.JFROG_USERNAME}</username>
-			<password>${env.JFROG_PASSWORD}</password>
+			<username>${env.JFROG_USR}</username>
+			<password>${env.JFROG_PSW}</password>
 		</server>
 
  
